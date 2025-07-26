@@ -1,10 +1,10 @@
 from flask import Flask, render_template, request, jsonify, send_file
+import io
+import json
 import geopandas as gpd
 import folium
 import json
 import hashlib
-import io
-import pandas as pd
 
 app = Flask(__name__)
 TTVT_FILE = "ttvt.json"
@@ -205,25 +205,15 @@ def update_ttvt():
         json.dump(data, f, ensure_ascii=False, indent=2)
     return jsonify({"status": "success"})
 
-@app.route("/export_ttvt_excel")
-def export_ttvt_excel():
+@app.route("/export_ttvt_json")
+def export_ttvt_json():
     with open(TTVT_FILE, "r", encoding="utf-8") as f:
-        ttvt = json.load(f)
-    # Flatten data for Excel
-    rows = []
-    for kv_name, px_list in ttvt.items():
-        for px in px_list:
-            rows.append({"TTVT": kv_name, "Tên xã/phường": px})
-    df = pd.DataFrame(rows)
-    output = io.BytesIO()
-    with pd.ExcelWriter(output, engine='xlsxwriter') as writer:
-        df.to_excel(writer, index=False, sheet_name="TTVT")
-    output.seek(0)
+        data = f.read()
     return send_file(
-        output,
-        mimetype="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        io.BytesIO(data.encode("utf-8")),
+        mimetype="application/json",
         as_attachment=True,
-        download_name="ttvt.xlsx"
+        download_name="ttvt.json"
     )
 
 if __name__ == "__main__":
