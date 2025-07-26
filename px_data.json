@@ -1,0 +1,776 @@
+[
+    {
+        "ten": "Hoa Lư",
+        "thue_bao_quy_đoi": 20400.4,
+        "dien_tich": 53.72,
+        "dan_so": 148406
+    },
+    {
+        "ten": "Nam Hoa Lư",
+        "thue_bao_quy_đoi": 9136.4,
+        "dien_tich": 54.3,
+        "dan_so": 53514
+    },
+    {
+        "ten": "Tây Hoa Lư",
+        "thue_bao_quy_đoi": 6455.5,
+        "dien_tich": 84.96,
+        "dan_so": 46648
+    },
+    {
+        "ten": "Yên Khánh",
+        "thue_bao_quy_đoi": 5011.3,
+        "dien_tich": 29.88,
+        "dan_so": 40134
+    },
+    {
+        "ten": "Phát Diệm",
+        "thue_bao_quy_đoi": 3299.1,
+        "dien_tich": 23.1,
+        "dan_so": 37617
+    },
+    {
+        "ten": "Yên Mô",
+        "thue_bao_quy_đoi": 4056.0,
+        "dien_tich": 28.6,
+        "dan_so": 35415
+    },
+    {
+        "ten": "Đông Hoa Lư",
+        "thue_bao_quy_đoi": 4844.5,
+        "dien_tich": 25.62,
+        "dan_so": 34414
+    },
+    {
+        "ten": "Nho Quan",
+        "thue_bao_quy_đoi": 4240.7,
+        "dien_tich": 32.62,
+        "dan_so": 33204
+    },
+    {
+        "ten": "Yên Từ",
+        "thue_bao_quy_đoi": 2979.1,
+        "dien_tich": 23.98,
+        "dan_so": 31917
+    },
+    {
+        "ten": "Trung Sơn",
+        "thue_bao_quy_đoi": 4895.3,
+        "dien_tich": 38.15,
+        "dan_so": 31539
+    },
+    {
+        "ten": "Bình Minh",
+        "thue_bao_quy_đoi": 3197.5,
+        "dien_tich": 34.44,
+        "dan_so": 31090
+    },
+    {
+        "ten": "Gia Viễn",
+        "thue_bao_quy_đoi": 3724.5,
+        "dien_tich": 39.8,
+        "dan_so": 28921
+    },
+    {
+        "ten": "Lai Thành",
+        "thue_bao_quy_đoi": 2433.5,
+        "dien_tich": 22.07,
+        "dan_so": 28718
+    },
+    {
+        "ten": "Yên Thắng",
+        "thue_bao_quy_đoi": 3742.8,
+        "dien_tich": 29.95,
+        "dan_so": 28405
+    },
+    {
+        "ten": "Quang Thiện",
+        "thue_bao_quy_đoi": 2610.8,
+        "dien_tich": 20.73,
+        "dan_so": 26860
+    },
+    {
+        "ten": "Tam Điệp",
+        "thue_bao_quy_đoi": 3674.3,
+        "dien_tich": 41.2,
+        "dan_so": 26845
+    },
+    {
+        "ten": "Khánh Trung",
+        "thue_bao_quy_đoi": 2401.4,
+        "dien_tich": 26.42,
+        "dan_so": 26453
+    },
+    {
+        "ten": "Gia Vân",
+        "thue_bao_quy_đoi": 2648.7,
+        "dien_tich": 26.94,
+        "dan_so": 25920
+    },
+    {
+        "ten": "Khánh Thiện",
+        "thue_bao_quy_đoi": 3087.8,
+        "dien_tich": 24.51,
+        "dan_so": 25693
+    },
+    {
+        "ten": "Khánh Nhạc",
+        "thue_bao_quy_đoi": 1797.6,
+        "dien_tich": 19.58,
+        "dan_so": 25612
+    },
+    {
+        "ten": "Định Hóa",
+        "thue_bao_quy_đoi": 1865.6,
+        "dien_tich": 21.44,
+        "dan_so": 24438
+    },
+    {
+        "ten": "Đồng Thái",
+        "thue_bao_quy_đoi": 2962.1,
+        "dien_tich": 47.6,
+        "dan_so": 24049
+    },
+    {
+        "ten": "Đại Hoàng",
+        "thue_bao_quy_đoi": 2028.5,
+        "dien_tich": 23.75,
+        "dan_so": 23848
+    },
+    {
+        "ten": "Thanh Sơn",
+        "thue_bao_quy_đoi": 1908.6,
+        "dien_tich": 35.69,
+        "dan_so": 23758
+    },
+    {
+        "ten": "Khánh Hội",
+        "thue_bao_quy_đoi": 2320.8,
+        "dien_tich": 22.89,
+        "dan_so": 23641
+    },
+    {
+        "ten": "Phú Sơn",
+        "thue_bao_quy_đoi": 2096.3,
+        "dien_tich": 41.12,
+        "dan_so": 22712
+    },
+    {
+        "ten": "Yên Mạc",
+        "thue_bao_quy_đoi": 2523.0,
+        "dien_tich": 20.6,
+        "dan_so": 22524
+    },
+    {
+        "ten": "Gia Hưng",
+        "thue_bao_quy_đoi": 2382.3,
+        "dien_tich": 28.37,
+        "dan_so": 21669
+    },
+    {
+        "ten": "Yên Sơn",
+        "thue_bao_quy_đoi": 2485.0,
+        "dien_tich": 35.86,
+        "dan_so": 21196
+    },
+    {
+        "ten": "Gia Trấn",
+        "thue_bao_quy_đoi": 2770.9,
+        "dien_tich": 18.76,
+        "dan_so": 20619
+    },
+    {
+        "ten": "Gia Lâm",
+        "thue_bao_quy_đoi": 1761.5,
+        "dien_tich": 37.61,
+        "dan_so": 20189
+    },
+    {
+        "ten": "Bình Lục",
+        "thue_bao_quy_đoi": 3192.8,
+        "dien_tich": 23.97,
+        "dan_so": 35225
+    },
+    {
+        "ten": "Bình Mỹ",
+        "thue_bao_quy_đoi": 2628.6,
+        "dien_tich": 30.28,
+        "dan_so": 33253
+    },
+    {
+        "ten": "Bình An",
+        "thue_bao_quy_đoi": 3322.9,
+        "dien_tich": 37.76,
+        "dan_so": 38881
+    },
+    {
+        "ten": "Bình Giang",
+        "thue_bao_quy_đoi": 2527.8,
+        "dien_tich": 24.15,
+        "dan_so": 24343
+    },
+    {
+        "ten": "Bình Sơn",
+        "thue_bao_quy_đoi": 2700.7,
+        "dien_tich": 28.06,
+        "dan_so": 32475
+    },
+    {
+        "ten": "Liêm Hà",
+        "thue_bao_quy_đoi": 3556.3,
+        "dien_tich": 20.95,
+        "dan_so": 27732
+    },
+    {
+        "ten": "Tân Thanh",
+        "thue_bao_quy_đoi": 2960.0,
+        "dien_tich": 36.35,
+        "dan_so": 26315
+    },
+    {
+        "ten": "Thanh Bình",
+        "thue_bao_quy_đoi": 2334.2,
+        "dien_tich": 23.85,
+        "dan_so": 21685
+    },
+    {
+        "ten": "Thanh Lâm",
+        "thue_bao_quy_đoi": 4218.0,
+        "dien_tich": 52.91,
+        "dan_so": 29550
+    },
+    {
+        "ten": "Thanh Liêm",
+        "thue_bao_quy_đoi": 3410.2,
+        "dien_tich": 23.27,
+        "dan_so": 23609
+    },
+    {
+        "ten": "Lý Nhân",
+        "thue_bao_quy_đoi": 3068.5,
+        "dien_tich": 18.38,
+        "dan_so": 32183
+    },
+    {
+        "ten": "Nam Xang",
+        "thue_bao_quy_đoi": 3770.4,
+        "dien_tich": 22.7,
+        "dan_so": 34150
+    },
+    {
+        "ten": "Bắc Lý",
+        "thue_bao_quy_đoi": 3424.1,
+        "dien_tich": 31.17,
+        "dan_so": 30984
+    },
+    {
+        "ten": "Vĩnh Trụ",
+        "thue_bao_quy_đoi": 3289.8,
+        "dien_tich": 17.59,
+        "dan_so": 36158
+    },
+    {
+        "ten": "Trần Thương",
+        "thue_bao_quy_đoi": 1613.0,
+        "dien_tich": 26.32,
+        "dan_so": 21933
+    },
+    {
+        "ten": "Nhân Hà",
+        "thue_bao_quy_đoi": 2827.1,
+        "dien_tich": 23.98,
+        "dan_so": 24535
+    },
+    {
+        "ten": "Nam Lý",
+        "thue_bao_quy_đoi": 3901.8,
+        "dien_tich": 28.69,
+        "dan_so": 37887
+    },
+    {
+        "ten": "Nam Trực",
+        "thue_bao_quy_đoi": 2655.0,
+        "dien_tich": 20.47,
+        "dan_so": 39822
+    },
+    {
+        "ten": "Nam Minh",
+        "thue_bao_quy_đoi": 1658.2,
+        "dien_tich": 24.79,
+        "dan_so": 38121
+    },
+    {
+        "ten": "Nam Đồng",
+        "thue_bao_quy_đoi": 1641.3,
+        "dien_tich": 23.42,
+        "dan_so": 28348
+    },
+    {
+        "ten": "Nam Ninh",
+        "thue_bao_quy_đoi": 1894.7,
+        "dien_tich": 25.8,
+        "dan_so": 37668
+    },
+    {
+        "ten": "Nam Hồng",
+        "thue_bao_quy_đoi": 2568.3,
+        "dien_tich": 28.81,
+        "dan_so": 31823
+    },
+    {
+        "ten": "Minh Tân",
+        "thue_bao_quy_đoi": 1655.6,
+        "dien_tich": 33.09,
+        "dan_so": 29965
+    },
+    {
+        "ten": "Hiển Khánh",
+        "thue_bao_quy_đoi": 2078.8,
+        "dien_tich": 30.24,
+        "dan_so": 29965
+    },
+    {
+        "ten": "Vụ Bản",
+        "thue_bao_quy_đoi": 1505.4,
+        "dien_tich": 21.56,
+        "dan_so": 26675
+    },
+    {
+        "ten": "Liên Minh",
+        "thue_bao_quy_đoi": 1549.7,
+        "dien_tich": 31.05,
+        "dan_so": 29825
+    },
+    {
+        "ten": "Ý Yên",
+        "thue_bao_quy_đoi": 4419.5,
+        "dien_tich": 46.73,
+        "dan_so": 53419
+    },
+    {
+        "ten": "Yên Đồng",
+        "thue_bao_quy_đoi": 2466.5,
+        "dien_tich": 30.53,
+        "dan_so": 35898
+    },
+    {
+        "ten": "Yên Cường",
+        "thue_bao_quy_đoi": 2488.6,
+        "dien_tich": 32.44,
+        "dan_so": 42810
+    },
+    {
+        "ten": "Vạn Thắng",
+        "thue_bao_quy_đoi": 1837.5,
+        "dien_tich": 26.22,
+        "dan_so": 35807
+    },
+    {
+        "ten": "Vũ Dương",
+        "thue_bao_quy_đoi": 2834.2,
+        "dien_tich": 30.59,
+        "dan_so": 39429
+    },
+    {
+        "ten": "Tân Minh",
+        "thue_bao_quy_đoi": 3055.2,
+        "dien_tich": 44.65,
+        "dan_so": 34937
+    },
+    {
+        "ten": "Phong Doanh",
+        "thue_bao_quy_đoi": 2969.8,
+        "dien_tich": 34.98,
+        "dan_so": 37231
+    },
+    {
+        "ten": "Cổ Lễ",
+        "thue_bao_quy_đoi": 2498.4,
+        "dien_tich": 18.33,
+        "dan_so": 40163
+    },
+    {
+        "ten": "Ninh Giang",
+        "thue_bao_quy_đoi": 2987.9,
+        "dien_tich": 23.69,
+        "dan_so": 38745
+    },
+    {
+        "ten": "Cát Thành",
+        "thue_bao_quy_đoi": 3207.5,
+        "dien_tich": 23.07,
+        "dan_so": 39035
+    },
+    {
+        "ten": "Trực Ninh",
+        "thue_bao_quy_đoi": 1349.5,
+        "dien_tich": 17.26,
+        "dan_so": 18453
+    },
+    {
+        "ten": "Quang Hưng",
+        "thue_bao_quy_đoi": 1753.2,
+        "dien_tich": 15.89,
+        "dan_so": 20701
+    },
+    {
+        "ten": "Minh Thái",
+        "thue_bao_quy_đoi": 1732.2,
+        "dien_tich": 23.44,
+        "dan_so": 33330
+    },
+    {
+        "ten": "Ninh Cường",
+        "thue_bao_quy_đoi": 2159.2,
+        "dien_tich": 22.28,
+        "dan_so": 32887
+    },
+    {
+        "ten": "Xuân Trường",
+        "thue_bao_quy_đoi": 5903.8,
+        "dien_tich": 33.29,
+        "dan_so": 71656
+    },
+    {
+        "ten": "Xuân Hưng",
+        "thue_bao_quy_đoi": 3073.6,
+        "dien_tich": 23.17,
+        "dan_so": 53539
+    },
+    {
+        "ten": "Xuân Giang",
+        "thue_bao_quy_đoi": 2219.0,
+        "dien_tich": 32.04,
+        "dan_so": 46053
+    },
+    {
+        "ten": "Xuân Hồng",
+        "thue_bao_quy_đoi": 2658.1,
+        "dien_tich": 27.61,
+        "dan_so": 40698
+    },
+    {
+        "ten": "Hải Hậu",
+        "thue_bao_quy_đoi": 4325.6,
+        "dien_tich": 23.87,
+        "dan_so": 45227
+    },
+    {
+        "ten": "Hải Anh",
+        "thue_bao_quy_đoi": 3477.5,
+        "dien_tich": 26.13,
+        "dan_so": 51246
+    },
+    {
+        "ten": "Hải Tiến",
+        "thue_bao_quy_đoi": 3378.2,
+        "dien_tich": 24.19,
+        "dan_so": 44728
+    },
+    {
+        "ten": "Hải Hưng",
+        "thue_bao_quy_đoi": 5661.1,
+        "dien_tich": 39.89,
+        "dan_so": 64918
+    },
+    {
+        "ten": "Hải An",
+        "thue_bao_quy_đoi": 1843.4,
+        "dien_tich": 25.19,
+        "dan_so": 26920
+    },
+    {
+        "ten": "Hải Quang",
+        "thue_bao_quy_đoi": 2282.9,
+        "dien_tich": 24.68,
+        "dan_so": 25798
+    },
+    {
+        "ten": "Hải Xuân",
+        "thue_bao_quy_đoi": 3091.5,
+        "dien_tich": 31.27,
+        "dan_so": 44001
+    },
+    {
+        "ten": "Hải Thịnh",
+        "thue_bao_quy_đoi": 2784.7,
+        "dien_tich": 32.92,
+        "dan_so": 33521
+    },
+    {
+        "ten": "Giao Minh",
+        "thue_bao_quy_đoi": 1594.5,
+        "dien_tich": 27.74,
+        "dan_so": 29261
+    },
+    {
+        "ten": "Giao Hòa",
+        "thue_bao_quy_đoi": 2489.1,
+        "dien_tich": 29.62,
+        "dan_so": 41717
+    },
+    {
+        "ten": "Giao Thủy",
+        "thue_bao_quy_đoi": 3798.0,
+        "dien_tich": 23.52,
+        "dan_so": 46557
+    },
+    {
+        "ten": "Giao Phúc",
+        "thue_bao_quy_đoi": 1145.5,
+        "dien_tich": 19.47,
+        "dan_so": 29758
+    },
+    {
+        "ten": "Giao Hưng",
+        "thue_bao_quy_đoi": 1183.4,
+        "dien_tich": 21.74,
+        "dan_so": 27985
+    },
+    {
+        "ten": "Giao Bình",
+        "thue_bao_quy_đoi": 1639.2,
+        "dien_tich": 21.75,
+        "dan_so": 26708
+    },
+    {
+        "ten": "Giao Ninh",
+        "thue_bao_quy_đoi": 2433.7,
+        "dien_tich": 25.81,
+        "dan_so": 33777
+    },
+    {
+        "ten": "Đồng Thịnh",
+        "thue_bao_quy_đoi": 1938.2,
+        "dien_tich": 30.45,
+        "dan_so": 30888
+    },
+    {
+        "ten": "Nghĩa Hưng",
+        "thue_bao_quy_đoi": 3368.6,
+        "dien_tich": 26.31,
+        "dan_so": 38631
+    },
+    {
+        "ten": "Nghĩa Sơn",
+        "thue_bao_quy_đoi": 2621.6,
+        "dien_tich": 26.83,
+        "dan_so": 28669
+    },
+    {
+        "ten": "Hồng Phong",
+        "thue_bao_quy_đoi": 1767.9,
+        "dien_tich": 29.21,
+        "dan_so": 28215
+    },
+    {
+        "ten": "Quỹ Nhất",
+        "thue_bao_quy_đoi": 2134.0,
+        "dien_tich": 32.7,
+        "dan_so": 32984
+    },
+    {
+        "ten": "Nghĩa Lâm",
+        "thue_bao_quy_đoi": 1426.1,
+        "dien_tich": 28.1,
+        "dan_so": 30959
+    },
+    {
+        "ten": "Rạng Đông",
+        "thue_bao_quy_đoi": 2758.3,
+        "dien_tich": 32.39,
+        "dan_so": 30956
+    },
+    {
+        "ten": "Kim Sơn",
+        "thue_bao_quy_đoi": 2027.0,
+        "dien_tich": 17.6,
+        "dan_so": 20161
+    },
+    {
+        "ten": "Gia Tường",
+        "thue_bao_quy_đoi": 1787.4,
+        "dien_tich": 27.09,
+        "dan_so": 19489
+    },
+    {
+        "ten": "Quỳnh Lưu",
+        "thue_bao_quy_đoi": 2303.0,
+        "dien_tich": 26.49,
+        "dan_so": 18035
+    },
+    {
+        "ten": "Chất Bình",
+        "thue_bao_quy_đoi": 1351.6,
+        "dien_tich": 18.6,
+        "dan_so": 17237
+    },
+    {
+        "ten": "Phú Long",
+        "thue_bao_quy_đoi": 2004.1,
+        "dien_tich": 74.79,
+        "dan_so": 13685
+    },
+    {
+        "ten": "Gia Phong",
+        "thue_bao_quy_đoi": 1534.7,
+        "dien_tich": 18.53,
+        "dan_so": 13034
+    },
+    {
+        "ten": "Kim Đông",
+        "thue_bao_quy_đoi": 1357.4,
+        "dien_tich": 81.82,
+        "dan_so": 9409
+    },
+    {
+        "ten": "Cúc Phương",
+        "thue_bao_quy_đoi": 754.1,
+        "dien_tich": 132.68,
+        "dan_so": 8650
+    },
+    {
+        "ten": "Hà Nam",
+        "thue_bao_quy_đoi": 6015.1,
+        "dien_tich": 29.98,
+        "dan_so": 33343
+    },
+    {
+        "ten": "Phủ Lý",
+        "thue_bao_quy_đoi": 13013.9,
+        "dien_tich": 11.84,
+        "dan_so": 62893
+    },
+    {
+        "ten": "Phù Vân",
+        "thue_bao_quy_đoi": 6516.1,
+        "dien_tich": 19.34,
+        "dan_so": 40927
+    },
+    {
+        "ten": "Châu Sơn",
+        "thue_bao_quy_đoi": 5213.2,
+        "dien_tich": 17.45,
+        "dan_so": 33348
+    },
+    {
+        "ten": "Liêm Tuyền",
+        "thue_bao_quy_đoi": 3340.9,
+        "dien_tich": 21.44,
+        "dan_so": 27781
+    },
+    {
+        "ten": "Duy Tiên",
+        "thue_bao_quy_đoi": 5144.6,
+        "dien_tich": 28.93,
+        "dan_so": 39957
+    },
+    {
+        "ten": "Duy Tân",
+        "thue_bao_quy_đoi": 3146.0,
+        "dien_tich": 28.86,
+        "dan_so": 28299
+    },
+    {
+        "ten": "Đồng Văn",
+        "thue_bao_quy_đoi": 5750.2,
+        "dien_tich": 18.88,
+        "dan_so": 34484
+    },
+    {
+        "ten": "Duy Hà",
+        "thue_bao_quy_đoi": 4371.8,
+        "dien_tich": 15.46,
+        "dan_so": 24310
+    },
+    {
+        "ten": "Tiên Sơn",
+        "thue_bao_quy_đoi": 2371.6,
+        "dien_tich": 23.96,
+        "dan_so": 27062
+    },
+    {
+        "ten": "Lê Hồ",
+        "thue_bao_quy_đoi": 3887.2,
+        "dien_tich": 22.27,
+        "dan_so": 32373
+    },
+    {
+        "ten": "Nguyễn Úy",
+        "thue_bao_quy_đoi": 2775.8,
+        "dien_tich": 24.21,
+        "dan_so": 27676
+    },
+    {
+        "ten": "Lý Thường Kiệt",
+        "thue_bao_quy_đoi": 3753.5,
+        "dien_tich": 53.66,
+        "dan_so": 22958
+    },
+    {
+        "ten": "Kim Thanh",
+        "thue_bao_quy_đoi": 2589.6,
+        "dien_tich": 13.49,
+        "dan_so": 26050
+    },
+    {
+        "ten": "Tam Chúc",
+        "thue_bao_quy_đoi": 2383.2,
+        "dien_tich": 46.56,
+        "dan_so": 18114
+    },
+    {
+        "ten": "Kim Bảng",
+        "thue_bao_quy_đoi": 3168.6,
+        "dien_tich": 15.22,
+        "dan_so": 23232
+    },
+    {
+        "ten": "Nam Định",
+        "thue_bao_quy_đoi": 17258.2,
+        "dien_tich": 19.91,
+        "dan_so": 188751
+    },
+    {
+        "ten": "Thiên Trường",
+        "thue_bao_quy_đoi": 4072.8,
+        "dien_tich": 20.53,
+        "dan_so": 31031
+    },
+    {
+        "ten": "Đông A",
+        "thue_bao_quy_đoi": 3647.4,
+        "dien_tich": 22.07,
+        "dan_so": 31802
+    },
+    {
+        "ten": "Vị Khê",
+        "thue_bao_quy_đoi": 3697.3,
+        "dien_tich": 25.27,
+        "dan_so": 36210
+    },
+    {
+        "ten": "Thành Nam",
+        "thue_bao_quy_đoi": 3303.0,
+        "dien_tich": 16.03,
+        "dan_so": 30830
+    },
+    {
+        "ten": "Trường Thi",
+        "thue_bao_quy_đoi": 3674.7,
+        "dien_tich": 31.5,
+        "dan_so": 69988
+    },
+    {
+        "ten": "Hồng Quang",
+        "thue_bao_quy_đoi": 2672.8,
+        "dien_tich": 27.53,
+        "dan_so": 35784
+    },
+    {
+        "ten": "Mỹ Lộc",
+        "thue_bao_quy_đoi": 2842.5,
+        "dien_tich": 35.54,
+        "dan_so": 38068
+    }
+]

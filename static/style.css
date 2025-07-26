@@ -1,0 +1,149 @@
+#editBtn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 10px 16px;
+  background: #0887e8;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  z-index: 10000;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 9999;
+}
+
+.modal-content {
+  background: white;
+  margin: 3% auto;
+  padding: 20px;
+  width: 95%;
+  max-width: 70%;
+  max-height: 90vh;
+  overflow-y: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+  position: relative;
+}
+
+.editor-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: flex-start;
+}
+
+.group-block {
+  width: 280px;
+  background: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 10px;
+  max-height: 650px;
+  overflow-y: auto;
+}
+
+.group-block h4 {
+  margin: 0 0 6px;
+  font-size: 16px;
+  text-align: center;
+  background: #eee;
+  padding: 4px;
+  border-radius: 4px;
+}
+
+.sortable-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  min-height: 40px;
+}
+
+.sortable-list li {
+  padding: 6px 10px;
+  margin-bottom: 6px;
+  background: white;
+  border: 1px solid #bbb;
+  border-radius: 4px;
+  cursor: grab;
+}
+
+.form-actions {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.form-actions button {
+  margin: 0 8px;
+  padding: 8px 14px;
+  font-size: 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  border: none;
+}
+
+.form-actions button[type="submit"] {
+  background: #007bff;
+  color: white;
+}
+
+.form-actions button[type="button"] {
+  background: #ffffff;
+  color: red;
+}
+
+.close-btn {
+  position: absolute;
+  top: 10px;
+  right: 12px;
+  background: none;
+  border: none;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  color: #666;
+  z-index: 10001;
+}
+
+.save-btn {
+  position: absolute;
+  top: 10px;
+  left: 12px;
+  background: none;
+  border: none;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  color: #666;
+  z-index: 10001;
+}
+
+.close-btn:hover {
+  color: #000;
+}
+
+.modal-header {
+  position: sticky;
+  top: 0;
+  background: white;
+  z-index: 10;
+  padding: 5px 0;
+  border-bottom: 0.5px solid #ddd;
+}
+
+.modal-header h3 {
+  margin: 0;
+  text-align: center;
+}
+
+.modal-content {
+  overflow-y: auto;
+  padding-top: 0; 
+}
